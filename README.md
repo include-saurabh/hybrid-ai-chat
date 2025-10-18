@@ -1,6 +1,6 @@
-# Evaluation: Hybrid AI Travel Assistant
+# Hybrid AI Travel Assistant
 
-This repository contains the submission for the Blue Enigma "AI-Hybrid Chat" evaluation. The project is a retrieval-augmented generation (RAG) system that answers travel questions about Vietnam. It leverages a hybrid data retrieval approach, combining semantic search from a vector database (Pinecone) with contextual graph lookups from a graph database (Neo4j), and uses Google's Gemini API for embeddings and intelligent response generation.
+This repository contains the submission for the Blue Enigma "AI-Hybrid Chat" task evaluation. The project is a retrieval-augmented generation (RAG) system that answers travel questions about Vietnam. It leverages a hybrid data retrieval approach, combining semantic search from a vector database (Pinecone) with contextual graph lookups from a graph database (Neo4j), and uses Google's Gemini API for embeddings and intelligent response generation.
 
 For a detailed breakdown of the technical fixes, architectural decisions, and improvements, please see the [**improvements.md**](improvements.md) file.
 
