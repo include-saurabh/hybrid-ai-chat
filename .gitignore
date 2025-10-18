@@ -1,0 +1,13 @@
+# Git Ignore File
+
+# Environment and cache files
+venv/
+__pycache__/
+.env
+
+# Sensitive configuration
+config.py 
+
+# IDE files
+.vscode/
+.idea/

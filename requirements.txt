@@ -1,0 +1,8 @@
+neo4j
+openai>=1.10.0          
+pinecone>=3.0.0
+pyvis==0.3.1
+networkx==3.1
+tqdm
+python-dotenv
+google-generativeai    
